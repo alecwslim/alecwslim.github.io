@@ -11,7 +11,7 @@
 
 - Created a program using a Yolov10 object detection model to detect license plates and preprocess an image of the license plate to be used by an OCR model to retrieve the plate number.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Detected lisence plates](/assets/img/val_batch2_labels.jpg)
 
 ### Analysis of Industrial Land, Poverty, and Environmental Illness in San Diego County
 [Github](https://github.com/alecwslim/SD-Poverty-Analysis)
