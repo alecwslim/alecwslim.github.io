@@ -1,9 +1,9 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, R, AI/Machine Learning
+#### Technical Skills: Python, SQL, NoSQL, Hadoop, Spark, R, AI/Machine Learning
 
 ## Education 			        		
-- B.S., Cognitive Science with a specalization in machine learning and neural computation | The University of California San Diego (_June 2025_)
+- M.S., Applied Data Science | The University of Southern California (_May 2028_)
 
 ## Projects
 ### License Plate Detector
